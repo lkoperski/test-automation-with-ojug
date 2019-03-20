@@ -8,6 +8,6 @@ The build is setup to work with Chrome. Have a look at the `build.gradle` and th
 
 ## Usage
 
-The following command will launch the tests with the browser:
+The following command was used at the WITH/OJUG meetup to launch the tests with the browser:
 
-    ./gradlew test
+    gradle test
